@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://scontent-kul.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10659245_746717548697944_3845438436689767756_n.jpg?oh=c7c9121d39c8db893825f9c79a02d057&oe=55DDF97A",-amiREKA89's InterTV-
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--nzU_nxo3YE/VSoZEsbyjCI/AAAAAAAAAmA/B0Z39nCzZ74/s150/machine-gun-wallpaper-free-download-images-pictures-becuo-wallpaper-guns-hd-free-download-becuomodern-machine-kelly-drawing-submachine-images-pictures-becuo.jpg",haxorboy.blogspot.com
+http://www.youtube.com/
+
+#EXTINF:-1  tvg-logo="http://isource.com/wp-content/uploads/2013/06/Instagram-logo.jpg",>>AMAEYPIDAH<<
+http://www.youtube.com/
+#EXTINF:-1 tvg-logo="http://www.apkdad.com/wp-content/uploads/2012/08/MALAYSIA-tv-Icon.jpg",•Malaysia Live TV•
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo="tv1.png" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg",TV1
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="tv2.png" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg",TV2
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="tv3.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv31.png",TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+
+#EXTINF:-1 tvg-logo="ntv7.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/ntv7.png",NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+
+#EXTINF:-1 tvg-logo="8tv.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/8tv.png",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+
+#EXTINF:-1 tvg-logo="tv9.png" tvg-logo="http://dev.mediaprima.com.my/wp-content/uploads/2014/05/tv9.png",TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
+#EXTINF:-1 tvg-logo="alhijrah.png" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/919px-Logo_of_the_TV_Alhijrah.svg.png",AL HIJRAH
+http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="astroarena.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/801_300.png" group-title="TVMALAYSIA",ASTRO ARENA
+http://bit.ly/astro-ARENA
+
+#EXTINF:-1  tvg-logo="astroprima.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/105_300.png" group-title="TVMALAYSIA",ASTRO PRIMA
+http://bit.ly/astro-PRIMA
+
+#EXTINF:-1 tvg-logo="astrowarna.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_300.png" group-title="TVMALAYSIA",ASTRO WARNA
+http://bit.ly/astro-WARNA
+
+#EXTINF:-1 tvg-logo="astroria.png" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_300.png" group-title="TVMALAYSIA",ASTRO Ria
+http://bit.ly/astro-RIA
+
+#EXTINF:-1 tvg-logo="https://abunuha.files.wordpress.com/2012/04/rtm-logo.jpg",•RTM•
+http://www.youtube.com
+
+#EXTINF:-1 tvg-logo="http://myklik.rtm.gov.my/img/logo/tv/parlimen.jpg",PARLIMEN TV - RTM
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch009.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20131218043401/logopedia/images/c/cc/MUZIK_AKTIF.jpg",MUZIK AKTIF - RTM
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/archive/9/9a/20140404002100!RTM_TVi.jpg",TVi - RTM
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Indonesia.png",•INDON•
+http;//www.youtube.com
+
+#EXTINF:-1 tvg-logo"http://stat.ks.kidsklik.com/statics/files/2013/01/13577063881050644905.jpg",INDONESIA TRANS7
+http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg",•SUKAN•
+www.youtube.com/
+
+#EXTINF:0,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+ 
+#EXTINF:0 tvg-logo="http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/mypictures/espn2.gif",ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+#EXTINF:0,Fox Sports
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+
+#EXTINF:-1, Sky Sports 1
+http://185.56.30.127:8082/TV4284
+
+#EXTINF:-1, Sky Sports 3
+http://185.56.30.127:8082/TV4286
+
+#EXTINF:-1, Sky Sports 4
+http://185.56.30.127:8082/TV4130
+
+#EXTINF:-1 tvg-logo="https://stocklogos.com/sites/default/files/styles/logo-medium/public/logos/image/bb36673d9c10e84b011ea5b5db56439e.png?itok=4Gu3S4iy",KIDS CHANNEL•  
+http://www.youtube.com/
+
+#EXTINF:0 tvg-logo="http://prominentpr.com/wp-content/uploads/2013/01/astro-ceria.jpg",ASTRO Ceria
+http://www.layarku.tv/media/ceria.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.optimum.com/images/io/movie_channels/tmc/tmc.gif",•MOVIES CHANNEL• 
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo="axn.png",AXN HD
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+
+#EXTINF:-1 tvg-logo="cinemax.png",Cinemax
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+
+#EXTINF:-1 tvg-logo="",HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+
+#EXTINF:-1,HBO
+http://93.155.252.134:12349/udp/239.1.0.82:4000
+
+#EXTINF:-1,HBO 2
+http://93.155.252.134:12349/udp/239.1.0.83:4000
+
+#EXTINF:-1,HBO COMEDY
+http://93.155.252.134:12349/udp/239.1.0.87:4000
+ 
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/TlaTWiirPjIi-1mr2VWq93-R2soHbqyTRqV2AJb7edKL7gf7ihTl1E_rr0Ug3l40LC58=w300",•RADIO•
+http://www.youtube.com/
+
+#EXTINF:-1  tvg-id="http://3.bp.blogspot.com/-TVbIR0010UA/Uj8xLFhKtiI/AAAAAAAAD44/FZSpsHFB8pE/s1600/terengganu-fm-image.jpg" radio="true" ,TERENGGANU FM 
+http://218.208.228.62:8000/;stream.nsv
+
+#EXTINF:-1  tvg-id="http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png" radio="true" ,IKIM FM
+http://50.7.96.210:8285/;stream.mp3
+
+#EXTINF:-1  tvg-id="http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png" radio="true",IKIM.FM 2nd link
+http://50.7.96.210:8285/;stream.mp3:21 
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s54689q.png" radio="true",HOT FM 
+http://2343.live.streamtheworld.com/HOTFMAAC
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://2.bp.blogspot.com/-YHSGOL1oPI0/UOOnPxK2bHI/AAAAAAAABq0/gknsiNf65Po/s1600/img_kelate_black.png" radio="true",HOT FM KELATE
+http://2633.live.streamtheworld.com/HOTFMKELATEAAC
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://apps.hotfm.com.my/streaming/Hot-FM-Tganu-Logo-White.jpg" radio="true",HOT FM TERANUNG
+http://2173.live.streamtheworld.com/HOTFMTGANUAAC
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTsmze1RXvzfK2mgGGQVd7dPIkTkw3qfCHJ_baaoxyr2wHesalF" radio="true",SURIA FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://4.bp.blogspot.com/-pX-suekr_xs/Te1VyFnsiEI/AAAAAAAABSE/0vrLyJLAsPw/s400/FM-Logo-THR-Gegar.jpg" radio="true",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://a5.mzstatic.com/us/r30/Purple/v4/7a/07/65/7a076551-6af1-8793-1cae-996c35e014b4/icon175x175.jpeg" radio="true",NASYID FM
+http://radio.nasyidfm.com.my:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s55247q.png" radio="true",MUZIK FM
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s55249q.png" radio="true",KLASIK NASIONAL
+http://turbo.stream.my/live/mp4:rtm-ch010/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://myklik.rtm.gov.my/img/logo/radio/nasional.jpg" radio="true",NASIONAL FM
+http://turbo.stream.my/live/mp4:rtm-ch011/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://www.hitz.fm/getmedia/8017a8a9-498d-4a6d-a3ab-e54a5a126e23/logo-header.png.aspx?width=158&height=80&ext=.png" radio="true",HITZ.FM
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s98853q.png" radio="true",SINAR.FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1 tvg-logo="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.png" radio="true",ERA.FM
+http://astro2.rastream.com/era
+
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/images/astro-logo-magenta.png",•ASTRO•
+http://www.youtube.com/
+
+  #EXTINF:-1, AZTECA 7
+ http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+  #EXTINF:-1, MTV LIVE
+ http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+  #EXTINF:-1, TELEHIT
+ http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+  #EXTINF:-1, VH1
+ http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+  #EXTINF:-1, MTV
+ http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+  #EXTINF:-1, BANDAMAX
+ http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+  #EXTINF:-1, A AND E
+ http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+  #EXTINF:-1, AXN HD
+ http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+  #EXTINF:-1, COMEDY CENTRAL
+ http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+  #EXTINF:-1, FOX
+ http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+  #EXTINF:-1, BBC
+ http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+  #EXTINF:-1, E!
+ http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+  #EXTINF:-1, UNIVERSAL
+ http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+  #EXTINF:-1, SYFY
+ http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+  #EXTINF:-1, FX
+ http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+  #EXTINF:-1, INF
+ http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+  #EXTINF:-1, GOURMET
+ http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+  #EXTINF:-1, GLITZ
+ http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+  #EXTINF:-1, FOX LIFE
+ http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+  #EXTINF:-1, DISTRITO COMEDIA
+ http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+  #EXTINF:-1, TBS
+ http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+  #EXTINF:-1, CASA
+ http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+  #EXTINF:-1, TELENOVELAS
+ http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+  #EXTINF:-1, DISCOVERY HD
+ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+  #EXTINF:-1, HISTORY
+ http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+  #EXTINF:-1, NAT GEO WILD
+ http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+  #EXTINF:-1, TLC HD
+ http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+  #EXTINF:-1, DISCOVERY
+ http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+  #EXTINF:-1, ANIMAL PLANET
+ http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+  #EXTINF:-1, NAT GEO
+ http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+  #EXTINF:-1, TURBO
+ http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+  #EXTINF:-1, D SCI
+ http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+  #EXTINF:-1, D. CIVILIZATION
+ http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+  #EXTINF:-1, TLC
+ http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+  #EXTINF:-1, WOBI
+ http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+  #EXTINF:-1, FOX CINEMA
+ http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+  #EXTINF:-1, FOX FAMILY
+ http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+  #EXTINF:-1, FOX CLASSICS
+ http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+  #EXTINF:-1, CINECANAL
+ http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+  #EXTINF:-1, TNT
+ http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+  #EXTINF:-1, GOLDEN EDGE
+ http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+  #EXTINF:-1, AMC
+ http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
